@@ -1,0 +1,13 @@
+/* Concept */
+	Go ye therefore, and teach all nations, baptizing them in the name of the Father, 
+	and of the Son, and of the Holy Ghost. (Matthew 28:19)
+
+/* Code */
+	Zoran Bogoevski [macedonia-tours.eu]
+
+/* SITE */
+	Last update: February 2016 AD
+	Doctype: HTML5
+	CMS: Castom
+	Framework: Laravel
+	IDE: Sublime Text, FileZilla, Photoshop CS6, Illustrator CS6

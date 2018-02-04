@@ -1,0 +1,3 @@
+User-Agent: Googlebot
+Sitemap: http://tropical.mk/sitemap.xml
+

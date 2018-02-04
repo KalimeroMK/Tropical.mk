@@ -1,0 +1,150 @@
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+ExpiresByType font/ttf "access plus 1 years"
+ExpiresByType font/otf "access plus 1 years"
+ExpiresByType application/vnd.ms-fontobject "access plus 1 years"
+ExpiresByType font/x-woff "access plus 1 years"
+ExpiresByType image/svg+xml "access plus 1 years"
+</IfModule>
+<FilesMatch "\.(css|js|jpg|png|gif)$">
+Header unset Cookie
+Header unset Set-Cookie
+</FilesMatch>
+## EXPIRES CACHING ##
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|json|ico|eot|otf|ttf)(\.gz)?$">
+Header set Cache-Control "max-age=604800"
+</FilesMatch>
+
+<IfModule mod_expires.c>
+ExpiresActive on
+
+<IfModule mod_deflate.c>
+
+SetOutputFilter DEFLATE
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|ico)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.(?:pdf|avi|mov|mp3)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.(?:zip|bz2|gz|sit|rar)$ no-gzip dont-vary
+Header append Vary User-Agent env=!dont-vary
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html 
+AddOutputFilterByType DEFLATE text/xml 
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
+# Common Fonts
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/font-woff
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject application/x-font-ttf image/svg+xml
+
+</IfModule>
+
+
+
+<IfModule mod_headers.c>
+Header append Cache-Control "public"
+</IfModule>
+</IfModule>
+
+
+#BEGIN Disable ETag
+Header unset ETag
+FileETag None
+#END Disable ETag
+
+Options -Indexes
+
+ErrorDocument 404 /404.php
+
+RewriteEngine On
+RewriteCond %{QUERY_STRING} ^(.*)$
+RewriteRule ([0-9]+)$ index.php?page=$1
+RewriteRule ^story/(.*)/$ story.php?id=$1
+RewriteRule ^keywords/(.*)/$ keywords.php?keywords=$1
+RewriteRule ^leto/([0-9]+)/$ leto.php?page=$1
+RewriteRule ^zima/([0-9]+)/$ zima.php?page=$1
+RewriteRule ^kasandra/([0-9]+)/$ kasandra.php?page=$1
+RewriteRule ^sitonija/([0-9]+)/$ sitonija.php?page=$1
+RewriteRule ^atos/([0-9]+)/$ atos.php?page=$1
+RewriteRule ^ostrovi/([0-9]+)/$ ostrovi.php?page=$1
+RewriteRule ^hrvatska/([0-9]+)/$ hrvatska.php?page=$1
+RewriteRule ^srbijahosteli/([0-9]+)/$ srbijahoteli.php?page=$1
+RewriteRule ^bugarija/([0-9]+)/$ bugarija.php?page=$1
+RewriteRule ^crnagora/([0-9]+)/$ crnagora.php?page=$1
+RewriteRule ^spanija/([0-9]+)/$ spanija.php?page=$1
+RewriteRule ^bansko/([0-9]+)/$ bansko.php?page=$1
+RewriteRule ^borovec/([0-9]+)/$ borovec.php?page=$1
+RewriteRule ^pamporovo/([0-9]+)/$ pamporovo.php?page=$1
+RewriteRule ^sandanski/([0-9]+)/$ sandanski.php?page=$1
+RewriteRule ^velingrad/([0-9]+)/$ velingrad.php?page=$1
+RewriteRule ^kopaonik/([0-9]+)/$ kopaonik.php?page=$1
+RewriteRule ^zlatibor/([0-9]+)/$ zlatibor.php?page=$1
+RewriteRule ^bled/([0-9]+)/$ bled.php?page=$1
+RewriteRule ^avstrija/([0-9]+)/$ avstrija.php?page=$1
+RewriteRule ^koncerti/([0-9]+)/$ koncerti.php?page=$1
+RewriteRule ^francija/([0-9]+)/$ francija.php?page=$1
+RewriteRule ^turcija/([0-9]+)/$ turcija.php?page=$1
+RewriteRule ^albanija/([0-9]+)/$ albanija.php?page=$1
+RewriteRule ^8mi-mart/([0-9]+)/$ 8mi-mart.php?page=$1
+RewriteRule ^veligden/([0-9]+)/$ veligden.php?page=$1
+RewriteRule ^1vi-maj/([0-9]+)/$ 1vi-maj.php?page=$1
+RewriteRule ^jonsko/([0-9]+)/$ jonsko.php?page=$1
+RewriteRule ^strimonikos/([0-9]+)/$ strimonikos.php?page=$1
+RewriteRule ^pieria/([0-9]+)/$ pieria.php?page=$1
+RewriteRule ^8mi-dekemvri/([0-9]+)/$ 8mi-dekemvri.php?page=$1
+RewriteRule ^kasandraapartmani/([0-9]+)/$ kasandraapartmani.php?page=$1
+RewriteRule ^pireaapartmani/([0-9]+)/$ pireaapartmani.php?page=$1
+RewriteRule ^kasandraapartmani/([0-9]+)/$ kasandraapartmani.php?page=$1
+RewriteRule ^sitonijaapartmani/([0-9]+)/$ sitonijaapartmani.php?page=$1
+RewriteRule ^atosapartmani/([0-9]+)/$ atosapartmani.php?page=$1
+RewriteRule ^pireaapartmani/([0-9]+)/$ pireaapartmani.php?page=$1
+RewriteRule ^kasandrahoteli/([0-9]+)/$ kasandrahoteli.php?page=$1
+RewriteRule ^sitonijahoteli/([0-9]+)/$ sitonijahoteli.php?page=$1
+RewriteRule ^atoshoteli/([0-9]+)/$ atoshoteli.php?page=$1
+RewriteRule ^pireahoteli/([0-9]+)/$ pireahoteli.php?page=$1
+RewriteRule ^lefkada/([0-9]+)/$ lefkada.php?page=$1
+RewriteRule ^zakintos/([0-9]+)/$ zakintos.php?page=$1
+RewriteRule ^krf/([0-9]+)/$ krf.php?page=$1
+RewriteRule ^tasos/([0-9]+)/$ tasos.php?page=$1
+RewriteRule ^bugarijaaranzmanizima/([0-9]+)/$ bugarijaaranzmanizima.php?page=$1
+RewriteRule ^srbijaaranzmanizima/([0-9]+)/$ srbijaaranzmanizima.php?page=$1
+RewriteRule ^prolet/([0-9]+)/$ prolet.php?page=$1
+RewriteRule ^esen/([0-9]+)/$ esen.php?page=$1
+RewriteRule ^novagodina/([0-9]+)/$ novagodina.php?page=$1
+RewriteRule ^individualni/([0-9]+)/$ individualni.php?page=$1
+RewriteRule ^dalecni/([0-9]+)/$ dalecni.php?page=$1
+RewriteRule ^uslovi/([0-9]+)/$ uslovi.php?page=$1
+RewriteRule ^podatoci/([0-9]+)/$ podatoci.php?page=$1
+RewriteRule ^usligi/([0-9]+)/$ uslovi.php?page=$1
+RewriteRule ^contact/([0-9]+)/$ contact.php?page=$1
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]

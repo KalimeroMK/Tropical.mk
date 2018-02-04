@@ -1,0 +1,1414 @@
+[10-Dec-2016 05:13:28 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nostalgi_admin'@'localhost' (using password: YES) in /home/nostalgijarecord/dev.nostalgijatravel.mk/conf/conf.php on line 4
+[10-Dec-2016 05:13:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nostalgijarecord/dev.nostalgijatravel.mk/conf/conf.php on line 6
+[10-Dec-2016 05:13:28 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[10-Dec-2016 05:13:28 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[10-Dec-2016 05:13:28 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[10-Dec-2016 05:13:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[10-Dec-2016 05:13:28 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[10-Dec-2016 05:13:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 6
+[10-Dec-2016 05:13:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 7
+[10-Dec-2016 05:14:33 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[10-Dec-2016 05:14:33 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[10-Dec-2016 05:14:33 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[10-Dec-2016 05:14:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[10-Dec-2016 05:14:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[13-Dec-2016 04:05:39 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[13-Dec-2016 04:05:39 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[13-Dec-2016 04:05:39 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[13-Dec-2016 04:05:39 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[13-Dec-2016 04:05:39 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[13-Dec-2016 05:44:35 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[13-Dec-2016 05:44:35 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[13-Dec-2016 05:44:35 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:28:42 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 08:28:42 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 08:28:42 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 08:28:42 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 08:28:42 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 08:28:46 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 08:28:46 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 08:28:46 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 08:28:46 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 08:28:46 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 08:29:57 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:29:57 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:29:57 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:37:51 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 08:37:51 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 08:37:51 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 08:37:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 08:37:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 08:38:52 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:38:52 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:38:52 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:39:15 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 08:39:15 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 08:39:15 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 08:39:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 08:39:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 08:39:40 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:39:40 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:39:40 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:43:25 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:43:25 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:43:25 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:53:11 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:53:11 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:53:11 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:53:52 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:53:52 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:53:52 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:54:00 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:54:00 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:54:00 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 08:58:24 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 08:58:24 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 08:58:24 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 09:02:13 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 09:02:13 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 09:02:13 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 09:03:09 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 09:03:09 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 09:03:09 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 09:13:30 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 09:13:30 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 09:13:30 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 10:18:45 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 10:18:45 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 10:18:45 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 10:18:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 10:18:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 10:21:05 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 10:21:05 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 10:21:05 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 10:27:17 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 8
+[14-Dec-2016 10:27:17 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 9
+[14-Dec-2016 10:27:17 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[14-Dec-2016 10:27:17 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[14-Dec-2016 10:47:25 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[14-Dec-2016 10:47:25 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[14-Dec-2016 11:19:04 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 11:19:04 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 11:19:04 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 11:19:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 11:19:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 11:19:36 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[14-Dec-2016 11:19:36 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[14-Dec-2016 11:19:38 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[14-Dec-2016 11:19:38 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[14-Dec-2016 11:25:49 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[14-Dec-2016 11:25:49 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[14-Dec-2016 11:39:51 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[14-Dec-2016 11:39:51 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[14-Dec-2016 11:39:51 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[14-Dec-2016 11:39:58 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 11:39:58 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 11:39:58 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 11:39:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 11:39:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 11:40:37 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 11:40:37 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 11:40:37 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 11:40:37 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 11:40:37 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 11:43:58 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[14-Dec-2016 11:43:58 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[14-Dec-2016 11:56:47 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[14-Dec-2016 11:56:47 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[14-Dec-2016 12:04:24 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 12:04:24 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 12:04:24 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 12:04:24 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 12:04:24 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 12:05:48 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 12:05:48 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 12:05:48 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 12:05:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 12:05:48 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 12:05:57 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 12:05:57 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 12:05:57 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 12:05:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 12:05:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 12:06:43 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[14-Dec-2016 12:06:43 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[14-Dec-2016 12:06:52 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 12:06:52 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 12:06:52 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 12:06:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 12:06:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:28:40 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 16:28:40 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 16:28:40 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 16:28:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 16:28:40 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:28:59 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 16:28:59 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 16:28:59 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 16:28:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 16:28:59 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:29:11 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 16:29:11 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 16:29:11 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 16:29:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 16:29:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:29:20 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 16:29:20 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 16:29:20 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 16:29:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 16:29:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:29:45 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[14-Dec-2016 16:29:45 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[14-Dec-2016 16:29:45 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[14-Dec-2016 16:29:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[14-Dec-2016 16:29:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[14-Dec-2016 16:56:25 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 8
+[14-Dec-2016 16:56:25 America/Chicago] PHP Stack trace:
+[14-Dec-2016 16:56:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[14-Dec-2016 16:56:25 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 9
+[14-Dec-2016 16:56:25 America/Chicago] PHP Stack trace:
+[14-Dec-2016 16:56:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[14-Dec-2016 16:56:25 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[14-Dec-2016 16:56:25 America/Chicago] PHP Stack trace:
+[14-Dec-2016 16:56:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[14-Dec-2016 16:56:25 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[14-Dec-2016 16:56:25 America/Chicago] PHP Stack trace:
+[14-Dec-2016 16:56:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 00:39:45 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:45 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:45 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 00:39:45 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:45 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:45 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:39:45 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 00:39:45 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 00:39:45 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:45 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:45 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:39:45 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 00:39:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 00:39:45 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:45 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:45 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 00:39:45 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 00:39:45 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:45 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:45 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 00:39:57 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 00:39:57 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:57 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:57 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 00:39:57 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:57 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:57 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:39:57 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 00:39:57 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 00:39:57 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:57 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:57 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:39:57 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 00:39:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 00:39:57 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:57 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:39:57 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 00:39:57 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 00:39:57 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:39:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:39:57 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 00:52:50 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 00:52:50 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:52:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:52:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:52:50 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 00:52:50 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:52:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:52:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:52:50 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:52:50 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 00:52:50 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 00:52:50 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:52:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:52:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:52:50 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:52:50 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 00:52:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 00:52:50 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:52:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:52:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:52:50 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 00:52:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 00:52:50 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:52:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:52:50 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 00:53:00 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 00:53:00 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:53:00 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:53:00 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:53:00 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 00:53:00 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:53:00 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:53:00 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:53:00 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:53:00 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 00:53:00 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 00:53:00 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:53:00 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:53:00 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:53:00 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 00:53:00 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 00:53:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 00:53:00 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:53:00 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:53:00 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 00:53:00 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 00:53:00 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 00:53:00 America/Chicago] PHP Stack trace:
+[15-Dec-2016 00:53:00 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 00:53:00 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 01:17:51 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[15-Dec-2016 01:17:51 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[15-Dec-2016 01:17:51 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[15-Dec-2016 01:17:51 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 01:17:58 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:58 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:17:58 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 01:17:58 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:58 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:17:58 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:17:58 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 01:17:58 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 01:17:58 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:58 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:17:58 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:17:58 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 01:17:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 01:17:58 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:58 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:17:58 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 01:17:58 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 01:17:58 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:17:58 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:17:58 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 01:18:07 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 01:18:07 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:07 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:07 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 01:18:07 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:07 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:07 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:07 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 01:18:07 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 01:18:07 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:07 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:07 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:07 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 01:18:07 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 01:18:07 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:07 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:07 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 01:18:07 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 01:18:07 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:07 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 01:18:15 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 01:18:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:15 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 01:18:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 01:18:15 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 01:18:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 01:18:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 01:18:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:15 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 01:18:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 01:18:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:15 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 01:18:26 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 01:18:26 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:26 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 01:18:26 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:26 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:26 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 01:18:26 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 01:18:26 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:26 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 01:18:26 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 01:18:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 01:18:26 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 01:18:26 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 01:18:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 01:18:26 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:18:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 01:18:26 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 01:46:25 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 01:46:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:46:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 01:46:25 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 01:46:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:46:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 01:46:25 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 01:46:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 01:46:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 07:35:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 07:35:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 07:35:15 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 07:35:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 07:35:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 07:35:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 07:35:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 07:35:15 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 07:35:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 07:35:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 07:35:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 07:35:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 07:35:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 07:35:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 07:35:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 07:35:15 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 07:35:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 07:35:15 America/Chicago] PHP Stack trace:
+[15-Dec-2016 07:35:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 07:35:15 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 09:05:20 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 09:05:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 09:05:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 09:05:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 09:05:20 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 09:05:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 09:05:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 09:05:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 09:05:20 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 09:05:20 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 09:05:20 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 09:05:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 09:05:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 09:05:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 09:05:20 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 09:05:20 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 09:05:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 09:05:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 09:05:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 09:05:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 09:05:20 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 09:05:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 09:05:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 09:05:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 09:05:20 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 10:54:01 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 10:54:01 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:01 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:01 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:01 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 10:54:01 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:01 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:01 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:01 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:01 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 10:54:01 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 10:54:01 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:01 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:01 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:01 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:01 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 10:54:01 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 10:54:01 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:01 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:01 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:01 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 10:54:01 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 10:54:01 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:01 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:01 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 10:54:21 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 10:54:21 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:21 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 10:54:21 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:21 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:21 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 10:54:21 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 10:54:21 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:21 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:21 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 10:54:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 10:54:21 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:21 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 10:54:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 10:54:21 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:21 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 10:54:44 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[15-Dec-2016 10:54:44 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:44 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:44 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:44 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[15-Dec-2016 10:54:44 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:44 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:44 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:44 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:44 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[15-Dec-2016 10:54:44 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[15-Dec-2016 10:54:44 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:44 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:44 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:44 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[15-Dec-2016 10:54:44 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[15-Dec-2016 10:54:44 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[15-Dec-2016 10:54:44 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:44 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:44 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[15-Dec-2016 10:54:44 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[15-Dec-2016 10:54:44 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[15-Dec-2016 10:54:44 America/Chicago] PHP Stack trace:
+[15-Dec-2016 10:54:44 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[15-Dec-2016 10:54:44 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[15-Dec-2016 17:38:02 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 17:38:02 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:38:02 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:38:02 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 17:38:02 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:38:02 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:38:02 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 17:38:02 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:38:02 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:40:11 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 17:40:11 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:40:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:40:11 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 17:40:11 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:40:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:40:11 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 17:40:11 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:40:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:42:29 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 17:42:29 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:42:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:42:29 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 17:42:29 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:42:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:42:29 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 17:42:29 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:42:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:45:25 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 17:45:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:45:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:45:25 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 17:45:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:45:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:45:25 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 17:45:25 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:45:25 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:48:20 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[15-Dec-2016 17:48:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:48:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:48:20 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[15-Dec-2016 17:48:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:48:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[15-Dec-2016 17:48:20 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[15-Dec-2016 17:48:20 America/Chicago] PHP Stack trace:
+[15-Dec-2016 17:48:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:20:24 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[17-Dec-2016 12:20:24 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:20:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:20:24 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[17-Dec-2016 12:20:24 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:20:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:20:24 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[17-Dec-2016 12:20:24 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:20:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:22:07 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[17-Dec-2016 12:22:07 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:22:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:22:07 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[17-Dec-2016 12:22:07 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:22:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[17-Dec-2016 12:22:07 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[17-Dec-2016 12:22:07 America/Chicago] PHP Stack trace:
+[17-Dec-2016 12:22:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[19-Dec-2016 02:21:56 America/Chicago] PHP Stack trace:
+[19-Dec-2016 02:21:56 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[19-Dec-2016 02:21:56 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[19-Dec-2016 02:21:56 America/Chicago] PHP Stack trace:
+[19-Dec-2016 02:21:56 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[19-Dec-2016 02:21:56 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[19-Dec-2016 02:21:56 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[19-Dec-2016 02:21:56 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[19-Dec-2016 02:21:56 America/Chicago] PHP Stack trace:
+[19-Dec-2016 02:21:56 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[19-Dec-2016 02:21:56 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[19-Dec-2016 02:21:56 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[19-Dec-2016 02:21:56 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[19-Dec-2016 02:21:56 America/Chicago] PHP Stack trace:
+[19-Dec-2016 02:21:56 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[19-Dec-2016 02:21:56 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[19-Dec-2016 02:21:56 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[19-Dec-2016 02:21:56 America/Chicago] PHP Stack trace:
+[19-Dec-2016 02:21:56 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[19-Dec-2016 02:21:56 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[19-Dec-2016 06:05:57 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 06:05:57 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:05:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 06:05:57 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 06:05:57 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:05:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 06:22:09 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 06:22:09 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:22:09 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 06:22:09 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 06:22:09 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:22:09 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 06:52:54 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[19-Dec-2016 06:52:54 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:52:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[19-Dec-2016 06:52:54 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[19-Dec-2016 06:52:54 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:52:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[19-Dec-2016 06:59:22 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 06:59:22 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:59:22 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 06:59:22 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 06:59:22 America/Chicago] PHP Stack trace:
+[19-Dec-2016 06:59:22 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 07:07:06 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[19-Dec-2016 07:07:06 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:07:06 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[19-Dec-2016 07:07:06 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[19-Dec-2016 07:07:06 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:07:06 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[19-Dec-2016 07:07:06 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[19-Dec-2016 07:07:06 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:07:06 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[19-Dec-2016 07:19:29 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[19-Dec-2016 07:19:29 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:19:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[19-Dec-2016 07:19:29 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[19-Dec-2016 07:19:29 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:19:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[19-Dec-2016 07:32:51 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 07:32:51 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:32:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 07:32:51 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 07:32:51 America/Chicago] PHP Stack trace:
+[19-Dec-2016 07:32:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 08:16:07 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 08:16:07 America/Chicago] PHP Stack trace:
+[19-Dec-2016 08:16:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 08:16:07 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 08:16:07 America/Chicago] PHP Stack trace:
+[19-Dec-2016 08:16:07 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 08:21:41 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[19-Dec-2016 08:21:41 America/Chicago] PHP Stack trace:
+[19-Dec-2016 08:21:41 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[19-Dec-2016 08:21:41 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[19-Dec-2016 08:21:41 America/Chicago] PHP Stack trace:
+[19-Dec-2016 08:21:41 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[22-Dec-2016 02:33:17 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:33:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[22-Dec-2016 02:33:17 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[22-Dec-2016 02:33:17 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:33:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[22-Dec-2016 02:33:17 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[22-Dec-2016 02:33:17 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[22-Dec-2016 02:33:17 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[22-Dec-2016 02:33:17 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:33:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[22-Dec-2016 02:33:17 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[22-Dec-2016 02:33:17 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[22-Dec-2016 02:33:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[22-Dec-2016 02:33:17 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:33:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[22-Dec-2016 02:33:17 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[22-Dec-2016 02:33:17 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[22-Dec-2016 02:33:17 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:33:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[22-Dec-2016 02:33:17 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[22-Dec-2016 02:41:52 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[22-Dec-2016 02:41:52 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:41:52 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 02:41:52 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[22-Dec-2016 02:41:52 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:41:52 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 02:45:30 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[22-Dec-2016 02:45:30 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:45:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 02:45:30 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[22-Dec-2016 02:45:30 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:45:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 02:45:30 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[22-Dec-2016 02:45:30 America/Chicago] PHP Stack trace:
+[22-Dec-2016 02:45:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 03:02:02 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[22-Dec-2016 03:02:02 America/Chicago] PHP Stack trace:
+[22-Dec-2016 03:02:02 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 03:02:02 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[22-Dec-2016 03:02:02 America/Chicago] PHP Stack trace:
+[22-Dec-2016 03:02:02 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 03:31:18 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[22-Dec-2016 03:31:18 America/Chicago] PHP Stack trace:
+[22-Dec-2016 03:31:18 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 03:31:18 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[22-Dec-2016 03:31:18 America/Chicago] PHP Stack trace:
+[22-Dec-2016 03:31:18 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 04:05:18 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[22-Dec-2016 04:05:18 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:05:18 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 04:05:18 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[22-Dec-2016 04:05:18 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:05:18 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 04:05:18 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[22-Dec-2016 04:05:18 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:05:18 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 04:07:49 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[22-Dec-2016 04:07:49 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:07:49 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 04:07:49 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[22-Dec-2016 04:07:49 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:07:49 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 04:07:49 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[22-Dec-2016 04:07:49 America/Chicago] PHP Stack trace:
+[22-Dec-2016 04:07:49 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 05:10:29 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 8
+[22-Dec-2016 05:10:29 America/Chicago] PHP Stack trace:
+[22-Dec-2016 05:10:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 05:10:29 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 9
+[22-Dec-2016 05:10:29 America/Chicago] PHP Stack trace:
+[22-Dec-2016 05:10:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[22-Dec-2016 05:24:08 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[22-Dec-2016 05:24:08 America/Chicago] PHP Stack trace:
+[22-Dec-2016 05:24:08 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 05:24:08 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[22-Dec-2016 05:24:08 America/Chicago] PHP Stack trace:
+[22-Dec-2016 05:24:08 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[22-Dec-2016 05:24:08 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[22-Dec-2016 05:24:08 America/Chicago] PHP Stack trace:
+[22-Dec-2016 05:24:08 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[23-Dec-2016 03:32:47 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 8
+[23-Dec-2016 03:32:47 America/Chicago] PHP Stack trace:
+[23-Dec-2016 03:32:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 03:32:47 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 9
+[23-Dec-2016 03:32:47 America/Chicago] PHP Stack trace:
+[23-Dec-2016 03:32:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 03:32:47 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[23-Dec-2016 03:32:47 America/Chicago] PHP Stack trace:
+[23-Dec-2016 03:32:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 03:32:47 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[23-Dec-2016 03:32:47 America/Chicago] PHP Stack trace:
+[23-Dec-2016 03:32:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 04:04:57 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 8
+[23-Dec-2016 04:04:57 America/Chicago] PHP Stack trace:
+[23-Dec-2016 04:04:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 04:04:57 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 9
+[23-Dec-2016 04:04:57 America/Chicago] PHP Stack trace:
+[23-Dec-2016 04:04:57 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[23-Dec-2016 04:13:37 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[23-Dec-2016 04:13:37 America/Chicago] PHP Stack trace:
+[23-Dec-2016 04:13:37 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[23-Dec-2016 04:13:37 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[23-Dec-2016 04:13:37 America/Chicago] PHP Stack trace:
+[23-Dec-2016 04:13:37 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[24-Dec-2016 04:47:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 04:47:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 04:47:05 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[24-Dec-2016 04:47:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 04:47:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 04:47:05 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 04:47:05 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[24-Dec-2016 04:47:05 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[24-Dec-2016 04:47:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 04:47:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 04:47:05 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 04:47:05 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[24-Dec-2016 04:47:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[24-Dec-2016 04:47:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 04:47:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 04:47:05 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[24-Dec-2016 04:47:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[24-Dec-2016 04:47:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 04:47:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 04:47:05 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[24-Dec-2016 06:06:36 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[24-Dec-2016 06:06:36 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:06:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[24-Dec-2016 06:06:36 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[24-Dec-2016 06:06:36 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:06:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[24-Dec-2016 06:22:49 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[24-Dec-2016 06:22:49 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:22:49 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[24-Dec-2016 06:22:49 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[24-Dec-2016 06:22:49 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:22:49 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[24-Dec-2016 06:34:47 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 06:34:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:34:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:34:47 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 06:34:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:34:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:34:47 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 06:34:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:34:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:40:36 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 06:40:36 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:40:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:40:36 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 06:40:36 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:40:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:40:36 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 06:40:36 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:40:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:41:27 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 06:41:27 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:41:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:41:27 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 06:41:27 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:41:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:41:27 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 06:41:27 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:41:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:44:05 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 06:44:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:44:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:44:05 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 06:44:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:44:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:44:05 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 06:44:05 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:44:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[24-Dec-2016 06:47:21 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:47:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 06:47:21 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[24-Dec-2016 06:47:21 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:47:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 06:47:21 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 06:47:21 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[24-Dec-2016 06:47:21 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[24-Dec-2016 06:47:21 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:47:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 06:47:21 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 06:47:21 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[24-Dec-2016 06:47:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[24-Dec-2016 06:47:21 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:47:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 06:47:21 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[24-Dec-2016 06:47:21 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[24-Dec-2016 06:47:21 America/Chicago] PHP Stack trace:
+[24-Dec-2016 06:47:21 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 06:47:21 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[24-Dec-2016 07:32:54 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[24-Dec-2016 07:32:54 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:32:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 07:32:54 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 07:32:54 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[24-Dec-2016 07:32:54 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:32:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 07:32:54 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 07:32:54 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 07:32:54 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[24-Dec-2016 07:32:54 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[24-Dec-2016 07:32:54 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:32:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 07:32:54 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 07:32:54 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 07:32:54 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[24-Dec-2016 07:32:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[24-Dec-2016 07:32:54 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:32:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 07:32:54 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 07:32:54 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[24-Dec-2016 07:32:54 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[24-Dec-2016 07:32:54 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:32:54 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 07:32:54 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[24-Dec-2016 07:34:46 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 07:34:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:34:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 07:34:46 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 07:34:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:34:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 07:34:46 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 07:34:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 07:34:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 08:05:46 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[24-Dec-2016 08:05:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:05:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 08:05:46 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[24-Dec-2016 08:05:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:05:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 08:05:46 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[24-Dec-2016 08:05:46 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:05:46 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[24-Dec-2016 08:06:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:06:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 08:06:47 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[24-Dec-2016 08:06:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:06:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 08:06:47 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 08:06:47 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[24-Dec-2016 08:06:47 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[24-Dec-2016 08:06:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:06:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 08:06:47 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 08:06:47 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[24-Dec-2016 08:06:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[24-Dec-2016 08:06:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:06:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 08:06:47 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[24-Dec-2016 08:06:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[24-Dec-2016 08:06:47 America/Chicago] PHP Stack trace:
+[24-Dec-2016 08:06:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 08:06:47 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[24-Dec-2016 15:34:04 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[24-Dec-2016 15:34:04 America/Chicago] PHP Stack trace:
+[24-Dec-2016 15:34:04 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 15:34:04 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 15:34:04 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[24-Dec-2016 15:34:04 America/Chicago] PHP Stack trace:
+[24-Dec-2016 15:34:04 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 15:34:04 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 15:34:04 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 15:34:04 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[24-Dec-2016 15:34:04 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[24-Dec-2016 15:34:04 America/Chicago] PHP Stack trace:
+[24-Dec-2016 15:34:04 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 15:34:04 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 15:34:04 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[24-Dec-2016 15:34:04 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[24-Dec-2016 15:34:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[24-Dec-2016 15:34:04 America/Chicago] PHP Stack trace:
+[24-Dec-2016 15:34:04 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 15:34:04 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[24-Dec-2016 15:34:04 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[24-Dec-2016 15:34:04 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[24-Dec-2016 15:34:04 America/Chicago] PHP Stack trace:
+[24-Dec-2016 15:34:04 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[24-Dec-2016 15:34:04 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[25-Dec-2016 11:39:19 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[25-Dec-2016 11:39:19 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:39:19 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[25-Dec-2016 11:39:19 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[25-Dec-2016 11:39:19 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[25-Dec-2016 11:39:19 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:39:19 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[25-Dec-2016 11:39:19 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[25-Dec-2016 11:39:19 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[25-Dec-2016 11:39:19 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[25-Dec-2016 11:39:19 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[25-Dec-2016 11:39:19 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:39:19 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[25-Dec-2016 11:39:19 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[25-Dec-2016 11:39:19 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[25-Dec-2016 11:39:19 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[25-Dec-2016 11:39:19 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[25-Dec-2016 11:39:19 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:39:19 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[25-Dec-2016 11:39:19 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[25-Dec-2016 11:39:19 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[25-Dec-2016 11:39:19 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[25-Dec-2016 11:39:19 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:39:19 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[25-Dec-2016 11:39:19 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[25-Dec-2016 11:46:43 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[25-Dec-2016 11:46:43 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:46:43 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[25-Dec-2016 11:46:43 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[25-Dec-2016 11:46:43 America/Chicago] PHP Stack trace:
+[25-Dec-2016 11:46:43 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[25-Dec-2016 12:13:37 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[25-Dec-2016 12:13:37 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:13:37 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[25-Dec-2016 12:13:37 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[25-Dec-2016 12:13:37 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:13:37 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[25-Dec-2016 12:31:03 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 12
+[25-Dec-2016 12:31:03 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:31:03 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[25-Dec-2016 12:31:03 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php on line 13
+[25-Dec-2016 12:31:03 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:31:03 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processponuda.php:0
+[25-Dec-2016 12:34:23 America/Chicago] PHP Notice:  Undefined index: slika in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 4
+[25-Dec-2016 12:34:23 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:34:23 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[25-Dec-2016 12:34:23 America/Chicago] PHP Notice:  Undefined index: slikathumb in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php on line 5
+[25-Dec-2016 12:34:23 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:34:23 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processimage.php:0
+[25-Dec-2016 12:42:30 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[25-Dec-2016 12:42:30 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:42:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:42:30 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[25-Dec-2016 12:42:30 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:42:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:42:30 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[25-Dec-2016 12:42:30 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:42:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:45:17 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[25-Dec-2016 12:45:17 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:45:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:45:17 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[25-Dec-2016 12:45:17 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:45:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:45:17 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[25-Dec-2016 12:45:17 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:45:17 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:48:38 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[25-Dec-2016 12:48:38 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:48:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:48:38 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[25-Dec-2016 12:48:38 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:48:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:48:38 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[25-Dec-2016 12:48:38 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:48:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:52:36 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[25-Dec-2016 12:52:36 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:52:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:52:36 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[25-Dec-2016 12:52:36 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:52:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[25-Dec-2016 12:52:36 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[25-Dec-2016 12:52:36 America/Chicago] PHP Stack trace:
+[25-Dec-2016 12:52:36 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[26-Dec-2016 11:55:05 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:55:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:55:05 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[26-Dec-2016 11:55:05 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:55:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:55:05 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[26-Dec-2016 11:55:05 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[26-Dec-2016 11:55:05 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[26-Dec-2016 11:55:05 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:55:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:55:05 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[26-Dec-2016 11:55:05 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[26-Dec-2016 11:55:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[26-Dec-2016 11:55:05 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:55:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:55:05 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[26-Dec-2016 11:55:05 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[26-Dec-2016 11:55:05 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:55:05 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:55:05 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[26-Dec-2016 11:56:16 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[26-Dec-2016 11:56:16 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:56:16 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:56:16 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[26-Dec-2016 11:56:16 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:56:16 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:56:16 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[26-Dec-2016 11:56:16 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:56:16 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[26-Dec-2016 11:57:11 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:57:11 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[26-Dec-2016 11:57:11 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:57:11 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[26-Dec-2016 11:57:11 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[26-Dec-2016 11:57:11 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[26-Dec-2016 11:57:11 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:57:11 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[26-Dec-2016 11:57:11 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[26-Dec-2016 11:57:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[26-Dec-2016 11:57:11 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[26-Dec-2016 11:57:11 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[26-Dec-2016 11:57:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[26-Dec-2016 11:57:11 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:11 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[26-Dec-2016 11:57:11 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[26-Dec-2016 11:57:33 America/Chicago] PHP Notice:  Undefined index: address in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 9
+[26-Dec-2016 11:57:33 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:33 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:57:33 America/Chicago] PHP Notice:  Undefined index: query in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 13
+[26-Dec-2016 11:57:33 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:33 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[26-Dec-2016 11:57:33 America/Chicago] PHP Notice:  Undefined index: v in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php on line 14
+[26-Dec-2016 11:57:33 America/Chicago] PHP Stack trace:
+[26-Dec-2016 11:57:33 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/ponudaupdate.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:03:38 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:03:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:03:38 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:03:38 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:03:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:03:38 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:03:38 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:03:38 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:03:38 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:03:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:03:38 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:03:38 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:03:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:03:38 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:03:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:03:38 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:03:38 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:03:38 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:03:38 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:03:38 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 06:04:47 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:04:47 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:04:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:04:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:04:47 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:04:47 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:04:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:04:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:04:47 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:04:47 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:04:47 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:04:47 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:04:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:04:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:04:47 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:04:47 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:04:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:04:47 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:04:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:04:47 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:04:47 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:04:47 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:04:47 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:04:47 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:04:47 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 06:05:15 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:05:15 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:15 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:05:15 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:05:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:05:15 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:05:15 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:15 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:05:15 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:05:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:05:15 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:15 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:15 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:05:15 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:05:15 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:15 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:15 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 06:05:26 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:05:26 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:26 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:05:26 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:26 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:05:26 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:05:26 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:05:26 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:26 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:05:26 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:05:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:05:26 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:26 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:05:26 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:05:26 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:05:26 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:05:26 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:05:26 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 06:07:20 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:07:20 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:20 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:07:20 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:20 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:07:20 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:07:20 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:07:20 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:20 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:07:20 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:07:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:07:20 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:20 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:20 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:07:20 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:07:20 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:20 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:20 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 06:07:30 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 06:07:30 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:30 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:30 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 06:07:30 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:30 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:30 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:07:30 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 06:07:30 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 06:07:30 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:30 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:30 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 06:07:30 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 06:07:30 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 06:07:30 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:30 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 06:07:30 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 06:07:30 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 06:07:30 America/Chicago] PHP Stack trace:
+[27-Dec-2016 06:07:30 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 06:07:30 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 07:35:24 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 07:35:24 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:35:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:35:24 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:35:24 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 07:35:24 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:35:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:35:24 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:35:24 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:35:24 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 07:35:24 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 07:35:24 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:35:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:35:24 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:35:24 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:35:24 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 07:35:24 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 07:35:24 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:35:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:35:24 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:35:24 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 07:35:24 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 07:35:24 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:35:24 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:35:24 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 07:39:27 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 07:39:27 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:27 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:27 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 07:39:27 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:27 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:27 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:39:27 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 07:39:27 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 07:39:27 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:27 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:27 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:39:27 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 07:39:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 07:39:27 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:27 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:27 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 07:39:27 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 07:39:27 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:27 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:27 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[27-Dec-2016 07:39:51 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[27-Dec-2016 07:39:51 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:51 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:51 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[27-Dec-2016 07:39:51 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:51 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:51 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:39:51 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[27-Dec-2016 07:39:51 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[27-Dec-2016 07:39:51 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:51 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:51 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[27-Dec-2016 07:39:51 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[27-Dec-2016 07:39:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[27-Dec-2016 07:39:51 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:51 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[27-Dec-2016 07:39:51 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[27-Dec-2016 07:39:51 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[27-Dec-2016 07:39:51 America/Chicago] PHP Stack trace:
+[27-Dec-2016 07:39:51 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[27-Dec-2016 07:39:51 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[28-Dec-2016 03:46:50 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[28-Dec-2016 03:46:50 America/Chicago] PHP Stack trace:
+[28-Dec-2016 03:46:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[28-Dec-2016 03:46:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[28-Dec-2016 03:46:50 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[28-Dec-2016 03:46:50 America/Chicago] PHP Stack trace:
+[28-Dec-2016 03:46:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[28-Dec-2016 03:46:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[28-Dec-2016 03:46:50 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[28-Dec-2016 03:46:50 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[28-Dec-2016 03:46:50 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[28-Dec-2016 03:46:50 America/Chicago] PHP Stack trace:
+[28-Dec-2016 03:46:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[28-Dec-2016 03:46:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[28-Dec-2016 03:46:50 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[28-Dec-2016 03:46:50 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[28-Dec-2016 03:46:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[28-Dec-2016 03:46:50 America/Chicago] PHP Stack trace:
+[28-Dec-2016 03:46:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[28-Dec-2016 03:46:50 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[28-Dec-2016 03:46:50 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[28-Dec-2016 03:46:50 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[28-Dec-2016 03:46:50 America/Chicago] PHP Stack trace:
+[28-Dec-2016 03:46:50 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[28-Dec-2016 03:46:50 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[29-Dec-2016 07:35:29 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[29-Dec-2016 07:35:29 America/Chicago] PHP Stack trace:
+[29-Dec-2016 07:35:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[29-Dec-2016 07:35:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[29-Dec-2016 07:35:29 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[29-Dec-2016 07:35:29 America/Chicago] PHP Stack trace:
+[29-Dec-2016 07:35:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[29-Dec-2016 07:35:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[29-Dec-2016 07:35:29 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[29-Dec-2016 07:35:29 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[29-Dec-2016 07:35:29 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[29-Dec-2016 07:35:29 America/Chicago] PHP Stack trace:
+[29-Dec-2016 07:35:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[29-Dec-2016 07:35:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[29-Dec-2016 07:35:29 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[29-Dec-2016 07:35:29 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[29-Dec-2016 07:35:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[29-Dec-2016 07:35:29 America/Chicago] PHP Stack trace:
+[29-Dec-2016 07:35:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[29-Dec-2016 07:35:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[29-Dec-2016 07:35:29 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[29-Dec-2016 07:35:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[29-Dec-2016 07:35:29 America/Chicago] PHP Stack trace:
+[29-Dec-2016 07:35:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[29-Dec-2016 07:35:29 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
+[30-Dec-2016 07:41:29 America/Chicago] PHP Notice:  Undefined index: lang in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 5
+[30-Dec-2016 07:41:29 America/Chicago] PHP Stack trace:
+[30-Dec-2016 07:41:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[30-Dec-2016 07:41:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[30-Dec-2016 07:41:29 America/Chicago] PHP Notice:  Constant DELETE already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 50
+[30-Dec-2016 07:41:29 America/Chicago] PHP Stack trace:
+[30-Dec-2016 07:41:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[30-Dec-2016 07:41:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[30-Dec-2016 07:41:29 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[30-Dec-2016 07:41:29 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:50
+[30-Dec-2016 07:41:29 America/Chicago] PHP Notice:  Constant ADD_PARTNERS already defined in /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php on line 103
+[30-Dec-2016 07:41:29 America/Chicago] PHP Stack trace:
+[30-Dec-2016 07:41:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[30-Dec-2016 07:41:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[30-Dec-2016 07:41:29 America/Chicago] PHP   3. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:18
+[30-Dec-2016 07:41:29 America/Chicago] PHP   4. define() /home/nostalgijarecord/dev.nostalgijatravel.mk/language/mk.php:103
+[30-Dec-2016 07:41:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php on line 82
+[30-Dec-2016 07:41:29 America/Chicago] PHP Stack trace:
+[30-Dec-2016 07:41:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[30-Dec-2016 07:41:29 America/Chicago] PHP   2. require_once() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:1
+[30-Dec-2016 07:41:29 America/Chicago] PHP   3. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/header.php:82
+[30-Dec-2016 07:41:29 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php on line 3
+[30-Dec-2016 07:41:29 America/Chicago] PHP Stack trace:
+[30-Dec-2016 07:41:29 America/Chicago] PHP   1. {main}() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:0
+[30-Dec-2016 07:41:29 America/Chicago] PHP   2. session_start() /home/nostalgijarecord/dev.nostalgijatravel.mk/process/processlogin.php:3
